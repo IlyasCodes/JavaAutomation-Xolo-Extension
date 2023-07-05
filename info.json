@@ -1,0 +1,15 @@
+{
+    "MISC": {
+        "DISCORD": {
+            "ENABLE": true,
+            "TOKEN": "",
+            "AUTHORIZED_IDS": [
+                ""
+            ]
+        },
+        "WEBHOOK": {
+            "ENABLE": true,
+            "URL": ""
+        }
+    }
+}
