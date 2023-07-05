@@ -17,3 +17,11 @@ TUTORIAL: https://www.youtube.com/watch?v=PINMJQMxOSo
 
 
 
+
+
+
+
+credits to Piracy for helping to bring the extension on xolo
+
+
+
