@@ -1,6 +1,7 @@
 #Join .gg/javaw  
 import pip # built in
 try:
+    
     import discord
     from discord.ext import commands
     import json # built in
